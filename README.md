@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/blancc-page/blancc-page/d238483847943e79f69402235119eed2e03576ed/header.png" alt="bio-header" width="100%" height="auto"/> </a>
+<img src="https://raw.githubusercontent.com/blancc-page/blancc-page/d238483847943e79f69402235119eed2e03576ed/header.png" alt="bio-header" width="100%" height="40%"/> </a>
 
 ```javascript
 const blancc = {
