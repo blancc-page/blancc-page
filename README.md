@@ -3,8 +3,8 @@
 
 ```javascript
 const blancc = {
-  code: [Javascript, HTML, CSS, Java],
-  tools: [React, Node, Express, Bash, Bootstrap],
+  code: [Javascript, HTML, CSS]
+  tools: [React, Node, Express, Bash, Bootstrap, Mongoose],
  challenge: "I am doing the #100DaysOfCode challenge focused on Data Structures & Algorithms and Backend Web Development"
 }
 ```
