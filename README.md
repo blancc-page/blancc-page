@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/blancc-page/blancc-page/d238483847943e79f69402235119eed2e03576ed/header.png" alt="bio-header" width="100%" height="40%"/> </a>
+<h1 align="center">Hi 👋, I'm Moses</h1>
+<h3 align="center">A passionate full stack web developer</h3>
 
 ```javascript
 const blancc = {
