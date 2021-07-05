@@ -55,4 +55,6 @@ const blancc = {
   
 </p>
 
+<hr>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blancc-page&show_icons=true&locale=en" alt="blancc-page" /></p>
