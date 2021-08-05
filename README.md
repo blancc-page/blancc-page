@@ -2,7 +2,7 @@
 <h3 align="center">A full stack web developer</h3>
 
 ```javascript
-const blancc = {
+const moses = {
   code: [Javascript, HTML, CSS]
   tools: [React, Node, Express, Bash, Bootstrap, Mongoose],
  challenge: "I am doing the #100DaysOfCode challenge focused on Data Structures & Algorithms and Backend Web Development"
