@@ -6,7 +6,7 @@ const moses = {
   code: [Javascript, HTML, CSS]
   tools: [React, Node, Express, Bash, Bootstrap, Mongoose],
  challenge: "I am doing the #100DaysOfCode challenge focused on Data Structures & Algorithms and Backend Web Development"
- funFact: "What is the object-oriented way to attain wealth?   Inheritance."
+ funFact: "What is the object-oriented way to become wealthy?   Inheritance."
 }
 ```
 <h3 align="left">Languages and Tools:</h3>
