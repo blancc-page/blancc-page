@@ -5,7 +5,7 @@
 const moses = {
   code: [Javascript, HTML, CSS]
   tools: [React, Node, Express, Bash, Bootstrap, Mongoose],
- challenge: "I am doing the #100DaysOfCode challenge focused on Data Structures & Algorithms and Backend Web Development"
+ challenge: "Currently in a Bootcamp Programme run by Moringa School. Learning Angular, Python, Flask & Jango together with TypeScript."
  funFact: "What is the object-oriented way to become wealthy?   Inheritance."
 }
 ```
