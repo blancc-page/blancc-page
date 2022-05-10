@@ -5,7 +5,7 @@
 const moses = {
   code: [Javascript, HTML, CSS]
   tools: [React, Node, Express, Bash, Bootstrap, Mongoose],
- challenge: "Currently in a Bootcamp Programme run by Moringa School. Learning Angular, Python, Flask & Jango together with TypeScript."
+ challenge: "Currently in a Bootcamp Programme run by Moringa School. Focusing on Web Development frameworks (Angular, Python, Flask & Django together with TypeScript & JavaScript.)"
  funFact: "What is the object-oriented way to become wealthy?   Inheritance."
 }
 ```
