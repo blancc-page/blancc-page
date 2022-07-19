@@ -3,11 +3,11 @@
 
 ```javascript
 const moses = {
-  code: [Javascript, TypeScript, Python, HTML, CSS]
+  code: [Javascript, TypeScript, Python, HTML, CSS],
   tools: [React, Angular, Node, Express, Flask, Bash, Bootstrap, Mongoose, PostgreSQL],
- challenge: "Currently in a Bootcamp Programme run by Moringa School. Focusing on Web Development frameworks 
- (Angular, Python, Flask & Django together with TypeScript & JavaScript.)"
- funFact: "What is the object-oriented way to become wealthy?   Inheritance."
+ challenge: "Currently in a Bootcamp Programme run by Moringa School. Focusing on Web Development frameworks (Angular, Python, 
+ Flask & Django together with TypeScript & JavaScript.)",
+ funFact: "What is the object-oriented way to become wealthy?   Inheritance.",
 }
 ```
 <h3 align="left">Languages and Tools:</h3>
